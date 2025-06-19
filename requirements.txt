@@ -1,2 +1,3 @@
 pandas
-os
+scikit-learn
+matplotlib
